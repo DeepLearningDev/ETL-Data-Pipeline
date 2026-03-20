@@ -1,0 +1,8 @@
+Account ID,Customer ID,Account Type,Opened Date,Status,Current Balance
+ACC1001,CUST001,checking,2024-01-15,OPEN,4250.32
+ACC1002,CUST001,credit,2024-03-01,Active,1380.45
+ACC1003,CUST002,Savings,2023-11-04,open,"12,540.10"
+ACC1004,CUST003,Checking,2025/01/20,open,980.77
+ACC1005,CUST004,Credit,2025-02-12,delinquent,540.20
+ACC1006,CUST005,checking,2022-08-10,closed,150.00
+

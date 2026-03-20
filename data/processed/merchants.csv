@@ -1,0 +1,10 @@
+merchant_id,merchant_name,merchant_category,city,state
+MER001,Whole Foods,Groceries,Raleigh,NC
+MER002,Blue Bottle Coffee,Dining,Durham,NC
+MER003,Shell,Transportation,Charlotte,NC
+MER004,Delta Airlines,Travel,Atlanta,GA
+MER005,Netflix,Subscriptions,Los Angeles,CA
+MER006,Employer Payroll,Income,Remote,NC
+MER007,Apple App Store,Software,Cupertino,CA
+MER008,Amc Theatres,Entertainment,Austin,TX
+MER009,Tarheel Electric,Utilities,Raleigh,NC
