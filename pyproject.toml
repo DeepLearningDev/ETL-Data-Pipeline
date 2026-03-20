@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "financial-etl-pipeline"
 version = "0.1.0"
-description = "Interview-ready ETL showcase for ingesting, cleaning, validating, and loading financial data."
+description = "ETL showcase for ingesting, cleaning, validating, and loading financial data."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
