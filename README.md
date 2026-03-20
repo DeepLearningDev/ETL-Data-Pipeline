@@ -2,11 +2,6 @@
 
 Production-minded ETL showcase for a Data Engineer interview. The project ingests structured banking CSVs, cleans and validates them, writes analytics-ready outputs, loads a relational warehouse, and ships reusable SQL for reporting.
 
-## Resume-Aligned Highlights
-
-- Developed an end-to-end ETL pipeline for ingesting, transforming, and storing structured financial data.
-- Automated data cleaning, schema validation, deduplication, and repeatable loading into a relational database.
-- Designed SQL queries for reporting on monthly totals, spend by category, high-value transactions, and customer-account performance.
 
 ## Business Scenario
 
@@ -121,9 +116,3 @@ Example result from `sql/analysis/monthly_transaction_totals.sql`:
 | 2026-03 | 769.26 | 3250.00 | 2480.74 |
 | 2026-04 | 173.81 | 2900.00 | 2726.19 |
 
-## Interview Talking Points
-
-- Why SQLite was chosen for the default local demo and how the loader remains PostgreSQL-ready.
-- How validation prevents malformed dates, missing IDs, and non-numeric amounts from reaching the warehouse.
-- How `signed_amount` and `transaction_month` simplify downstream reporting.
-- How the SQL folder separates the reporting layer from the ETL code so reviewers can inspect business logic quickly.
